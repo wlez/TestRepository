@@ -1,3 +1,3 @@
 # Headline 1
 
-Some content
+Better content
